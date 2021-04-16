@@ -1,6 +1,6 @@
 # Estrurua de Dados
 
-## Material referente à matéria de **Estrura de Dados**
+## Material referente à matéria de __Estrura de Dados__
 
 #### Todas as estruturas foram implementadas em `Java`, e foram elas:
 
