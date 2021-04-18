@@ -1,6 +1,6 @@
 # Estrurua de Dados
 
-## Material referente à matéria de __Estrura de Dados__
+Material referente à matéria de __Estrura de Dados__
 
 # O que foi implementado
 * `Vetor`
