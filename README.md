@@ -2,7 +2,7 @@
 
 ## Material referente à matéria de __Estrura de Dados__
 
-#O que foi implementado
+# O que foi implementado
 * `Vetor`
 * `Lista`
 * `Lista Encadeada`
